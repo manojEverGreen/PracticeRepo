@@ -25,3 +25,4 @@ G - gyroscope
 vowels a,e,i,o,u
 a - apple, animal, analogy
 e - enamal, energy, endoscopy
+i - itiration, irrigation, inertia
