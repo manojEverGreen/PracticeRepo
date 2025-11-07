@@ -15,7 +15,4 @@ G - gyroscope
 
 -------------------------------------------------
 
-128
-280
-326
-444
+128 = one hundred and twenty eight = even number that ends with 8 = even number has 3 digits 
