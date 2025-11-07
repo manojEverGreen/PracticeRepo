@@ -27,3 +27,4 @@ a - apple, animal, analogy
 e - enamal, energy, endoscopy
 i - itiration, irrigation, inertia
 0 - owl, oven, opus
+u - unsend, unsafe, unnecessary
