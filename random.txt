@@ -6,4 +6,4 @@ E - Esophagus
 
 -------------------------------------------------
 
-128 = one hundred and twenty eight
+128 = one hundred and twenty eight = even number that ends with 8 
