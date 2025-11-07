@@ -4,3 +4,4 @@ C - catalog
 D - Dermatalogist
 E - Esophagus
 F - fickle
+G - gyroscope
