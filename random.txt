@@ -6,4 +6,4 @@ E - Esophagus
 
 -------------------------------------------------
 
-128
+128 = one hundred and twenty eight
